@@ -3,3 +3,5 @@ Ja, då håller vi på och skapa en konflikt nu. Ska vi se hur de går...
 
 detta skrivs från min fork
 se om de blir nå konflikter
+
+konflikt test
