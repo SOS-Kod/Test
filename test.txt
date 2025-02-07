@@ -1,8 +1,5 @@
 Hello Github
 Ja, då håller vi på och skapa en konflikt nu. Ska vi se hur de går...
 
-jaaa nu är en fork gjord
-MMMMMM
-=======
-Bla bla bla
-kopia
+detta skrivs från min fork
+se om de blir nå konflikter
